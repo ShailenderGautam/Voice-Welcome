@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/54/19/02/541902f716f7edd427cfa5a9e1230be6.png">  
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfluAsQ-arNCn5-DNrQmtpUiQF0TqBrTbzfw&usqp=CAU">  
 </p>
 
 <h1 align="center">Termux Voice Welcome - OnlineHacking</h1>
